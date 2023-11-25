@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ### Toolbox 🧰
 - Languages: Python | TypeScript | JavaScript | Dart
 -  Tools: Node.js, Express.js, Docker, Kubernetes, AWS, Redis
-- Extras: Flutter, Firebase, Wordpress
+- Extras: Flutter, Firebase, Wordpress, Namecheap
 
 ### What Sets Me Apart 💪
 My expertise spans both machine learning and backend development, and I have a knack for simplifying complex concepts and bringing data to life. My portfolio includes impressive projects focused on human language understanding and usage.
