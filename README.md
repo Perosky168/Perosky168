@@ -14,8 +14,8 @@ My expertise spans both machine learning and backend development, and I have a k
 
 Explore My GitHub Highlights:
 - StubHub 🎫: Check out my microservice-driven app for securing hard-to-find tickets - [StubHub](https://github.com/Perosky168/stubHub-clone)
-- Real-Time Chat App 💬: Engage in real-time conversations through my socket.io-powered chat app - Chat App
-- Functioning REST APIs 🏢: Dive into my APIs, covering everything from apartment hunting to online language schooling - Apartment Finder API, Online Language - School API
+- Real-Time Chat App 💬: Engage in real-time conversations through my socket.io-powered chat app - [chatApp](https://github.com/Perosky168/chat-app-api)
+- Natours 🏢: A Place to get exciting tours for - [Natours](https://github.com/Perosky168/natours) 
 
 
 
