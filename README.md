@@ -18,7 +18,7 @@ My expertise spans both machine learning and backend development, and I have a k
 - Natours 🏢: A Place to get exciting tours for - [Natours](https://github.com/Perosky168/natours) 
 
 ### Impactful Ventures 👨‍💻
-In the backend realm, I've been a driving force behind MavenFleet.co.uk, a visionary platform empowering tech enthusiasts on their journeys. Collaborating closely with frontend engineers, I've turned this vision into reality.
+In the backend realm, I've been a driving force behind [MavenFleet.co.uk](https://mavenfleet.co.uk), a visionary platform empowering tech enthusiasts on their journeys. Collaborating closely with frontend engineers, I've turned this vision into reality.
 
 I had the pleasure of collaborating with a talented team of engineers to bring to life [Collab.cards](https://collab.cards), a dynamic platform designed for writers and poetry enthusiasts. Our vision is to foster collaboration among writers, connecting individuals from across the globe to share their creative ideas through the medium of poetry and fiction. We're excited to announce that the platform will be launching fully in just three months! As we gear up for this exciting milestone, we invite you to be one of our inaugural users. Explore the world of creativity, connect with like-minded individuals, and embark on a poetic journey with us at [Collab.cards](https://collab.cards). Don't miss out on the opportunity to be among the first to experience it!
 
