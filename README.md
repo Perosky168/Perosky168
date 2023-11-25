@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - Extras: Flutter, Firebase, Wordpress, Namecheap, cloudinary
 
 ### What Sets Me Apart 💪
-My expertise spans both machine learning and backend development, and I have a knack for simplifying complex concepts and bringing data to life. My portfolio includes impressive projects focused on human language understanding and usage.
+My expertise is backend web development.
 
 ### Explore My GitHub Highlights:
 - StubHub 🎫: Check out my microservice-driven app for securing hard-to-find tickets - [StubHub](https://github.com/Perosky168/stubHub-clone)
