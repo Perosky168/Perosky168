@@ -6,11 +6,8 @@ I specialize in **Node.js**  and **Express**, excelling in building efficient an
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Toolbox 🧰
 - Languages: Python | TypeScript | JavaScript | Dart
--  Tools: Node.js, Express.js, Docker, Kubernetes, AWS, Redis
-- Extras: Flutter, Firebase, Wordpress, Namecheap, cloudinary
-
-### What Sets Me Apart 💪
-My expertise is backend web development.
+-  Tools: Node.js, Express.js, Docker, Kubernetes, AWS, Redis, cloudinary
+- Extras: Flutter, Firebase, Wordpress, Namecheap
 
 ### Explore My GitHub Highlights:
 - StubHub 🎫: Check out my microservice-driven app for securing hard-to-find tickets - [StubHub](https://github.com/Perosky168/stubHub-clone)
