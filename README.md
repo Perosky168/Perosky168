@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm Ogunbanjo Peter, a versatile software engineer
 I specialize in **Node.js**  and **Express**, excelling in building efficient and scalable APIs. I create seamless CI/CD pipelines for both development and production environments. AWS is my playground, and I love harnessing its suite of products, from hosting Docker images on Elastic Container Repository to utilizing **EC2** and **S3** for efficient file management. Kubernetes is also in my arsenal, enabling me to manage load balancing and orchestrate deployments for scalable and efficient applications.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Toolbox 🧰
-- Languages: Python | TypeScript | JavaScript | Dart
--  Tools: Node.js, Express.js, Docker, Kubernetes, AWS, Redis, cloudinary
+- Languages: TypeScript | JavaScript |
+-  Tools: Node.js, Express.js, Nest.js, Graphql, Docker, Kubernetes, AWS, Redis, cloudinary
 - Extras: Flutter, Firebase, Wordpress, Namecheap
 
 ### Explore My GitHub Highlights:
