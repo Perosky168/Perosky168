@@ -6,8 +6,8 @@ I specialize in **Node.js**  and **Express**, excelling in building efficient an
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Toolbox 🧰
 - Languages: TypeScript | JavaScript |
--  Tools: Node.js, Express.js, Nest.js, Graphql, Docker, Kubernetes, AWS, Redis, cloudinary
-- Extras: Flutter, Firebase, Wordpress, Namecheap
+-  Tools: Node.js, Express.js, Nest.js, Graphql, Docker, Kubernetes, AWS, MongoDB, Postgreql, websokets, Redis, cloudinary
+  
 
 ### Explore My GitHub Highlights:
 - StubHub 🎫: Check out my microservice-driven app for securing hard-to-find tickets - [StubHub](https://github.com/Perosky168/stubHub-clone)
